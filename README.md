@@ -1,1 +1,1 @@
-# goit-python-hw-module-6
+# goit-python-hw-module-7
